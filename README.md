@@ -5,5 +5,5 @@ Formation GRETA - Projet N°3 : Reproduction d'une page
 
 # Objectifs demandés
 * Reproduire la page le plus fidèlement possible
-* Carousel fonctionnel
+* Animations foncitonnelles
 * Page responsive

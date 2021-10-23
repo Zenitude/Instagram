@@ -1,5 +1,4 @@
 /* Carousel */
-const carousel = document.querySelector('.carousel');
 const imagesCarousel = document.querySelectorAll('.carousel img');
 let index = 0;
 
